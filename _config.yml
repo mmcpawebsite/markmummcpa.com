@@ -1,0 +1,6 @@
+auto: true
+markdown: rdiscount
+permalink: pretty
+rdiscount extensions: [smart]
+production_url: http://www.markmummcpa.com
+exclude: README.md _config.yml
