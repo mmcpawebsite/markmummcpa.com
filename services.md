@@ -8,11 +8,10 @@ As the list below is by no means all-inclusive, please feel free to inquire abou
 
  * [Specializing in Not-for-Profits](#Specializing in Not-for-Profits)
  * [Accounting Services](#Accounting Services)
- * [Reviews & Compilations](#Reviews & Compilations)
+ * [Compilations](#Compilations)
  * [Financial Statements](#Financial Statements)
  * [Cash Flow & Budgeting Analysis](#Cash Flow & Budgeting Analysis)
  * [Tax Services](#Tax Services)
- * [Consulting Services](#Consulting Services)
  * [Bookkeeping/Write-Up](#Bookkeeping/Write-Up)
  * [IRS Representation](#IRS Representation)
 
@@ -26,15 +25,13 @@ Providing financial information to my clients in a timely and accurate manner is
 
   * General ledger & financial statement preparation
   * Bookkeeping (Monthly/Quarterly/Annual)
-  * Accounting system setup for new businesses
 
-<h3 id="Reviews & Compilations">Reviews & Compilations <a href="#">^</a></h3>
+<h3 id="Compilations">Compilations <a href="#">^</a></h3>
 
 I view my role in the financial reporting process as an opportunity to provide
 constructive solutions for maximizing your company's profitability and
 efficiency. I provide financial reporting on two levels of assurance:
 
-  * Review analytical procedures conducted with limited assurance
   * Compilation based upon client information provided and used primarily for internal use.
 
 <h3 id="Financial Statements">Financial Statements <a href="#">^</a></h3>
@@ -57,20 +54,6 @@ I prefer to take a proactive vs. reactive approach to tax services. By keeping
 current on new tax laws and legislation, I am in a position to identify key
 tax planning opportunities that minimize both your current and future tax
 liabilities.
-
-<h3 id="Consulting Services">Consulting Services <a href="#">^</a></h3>
-
-I gauge my worth by the successes of my clients. I can
-help your organization identify areas negatively affecting profitability and
-growth and develop solutions that are practical and technically sound. In
-addition to acting as a sounding board for management, I provide
-comprehensive, flexible strategies that address the issues affecting your
-organization. The following are just a few of the areas in which I provide
-consulting services:
-
-  * Accounting software selection and implementation
-  * Computer systems
-  * Governance
 
 <h3 id="Bookkeeping/Write-Up">Bookkeeping/Write-Up <a href="#">^</a></h3>
 
